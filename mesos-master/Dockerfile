@@ -1,0 +1,1 @@
+FROM redjack/mesos-master:latest
