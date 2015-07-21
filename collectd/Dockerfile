@@ -1,1 +1,1 @@
-FROM newsdev/docker-collectd:coreos
+FROM bobrik/collectd-docker
