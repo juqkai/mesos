@@ -1,1 +1,1 @@
-FROM bobrik/collectd-docker
+FROM yaronr/collectd
