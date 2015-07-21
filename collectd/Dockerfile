@@ -1,1 +1,1 @@
-FROM newsdev/docker-collectd
+FROM newsdev/docker-collectd:coreos
