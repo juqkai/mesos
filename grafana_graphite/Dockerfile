@@ -1,1 +1,1 @@
-FROM kamon/grafana_graphite
+FROM sitespeedio/graphite
