@@ -1,0 +1,1 @@
+FROM mesosphere/mesos-dns
