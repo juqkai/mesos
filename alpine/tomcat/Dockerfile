@@ -1,2 +1,2 @@
-FROM tomcat:7-jre8-alpine
+FROM tomcat:7.0-jre8-alpine
 
